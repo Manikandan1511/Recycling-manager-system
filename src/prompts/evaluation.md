@@ -15,3 +15,5 @@ Return ONLY a JSON object: { 'score': number, 'reason': 'string' }"
 "A shift team is underperforming due to fatigue. The candidate suggests: [INSERT RESPONSE]. 
 Score 1-100 based on empathy, leadership, and KPI alignment. 
 Return ONLY a JSON object: { 'score': number, 'reason': 'string' }"
+
+## 4.
