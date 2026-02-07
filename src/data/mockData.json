@@ -1,0 +1,642 @@
+[
+  {
+    "id": 1,
+    "name": "Deepak",
+    "experience": 3,
+    "skills": [
+      "SCADA",
+      "Circular Economy",
+      "Waste Management"
+    ],
+    "scores": {
+      "crisis": 57,
+      "sustainability": 69,
+      "motivation": 78
+    },
+    "bio": "foodie, gamer"
+  },
+  {
+    "id": 2,
+    "name": "Jennifer",
+    "experience": 13,
+    "skills": [
+      "ISO 14001",
+      "SCADA",
+      "Waste Management"
+    ],
+    "scores": {
+      "crisis": 42,
+      "sustainability": 90,
+      "motivation": 97
+    },
+    "bio": "author, engineer"
+  },
+  {
+    "id": 3,
+    "name": "Madhu Mitha",
+    "experience": 9,
+    "skills": [
+      "ISO 14001",
+      "Lean Six Sigma",
+      "Circular Economy"
+    ],
+    "scores": {
+      "crisis": 99,
+      "sustainability": 77,
+      "motivation": 75
+    },
+    "bio": "environmentalist, developer, engineer 🤷🏼"
+  },
+  {
+    "id": 4,
+    "name": "Krishna",
+    "experience": 2,
+    "skills": [
+      "Circular Economy",
+      "Lean Six Sigma",
+      "ISO 14001"
+    ],
+    "scores": {
+      "crisis": 90,
+      "sustainability": 79,
+      "motivation": 61
+    },
+    "bio": "person"
+  },
+  {
+    "id": 5,
+    "name": "Abinaya",
+    "experience": 4,
+    "skills": [
+      "Waste Management",
+      "ISO 14001",
+      "Circular Economy"
+    ],
+    "scores": {
+      "crisis": 74,
+      "sustainability": 55,
+      "motivation": 88
+    },
+    "bio": "leader, leader, musician"
+  },
+  {
+    "id": 6,
+    "name": "Adithiya",
+    "experience": 4,
+    "skills": [
+      "SCADA",
+      "Circular Economy",
+      "Lean Six Sigma"
+    ],
+    "scores": {
+      "crisis": 78,
+      "sustainability": 42,
+      "motivation": 50
+    },
+    "bio": "crocodile devotee  🟩"
+  },
+  {
+    "id": 7,
+    "name": "Sanjai",
+    "experience": 10,
+    "skills": [
+      "SCADA",
+      "Circular Economy",
+      "Lean Six Sigma"
+    ],
+    "scores": {
+      "crisis": 56,
+      "sustainability": 80,
+      "motivation": 99
+    },
+    "bio": "business owner"
+  },
+  {
+    "id": 8,
+    "name": "Sowmya",
+    "experience": 4,
+    "skills": [
+      "Circular Economy",
+      "ISO 14001",
+      "Waste Management"
+    ],
+    "scores": {
+      "crisis": 96,
+      "sustainability": 42,
+      "motivation": 52
+    },
+    "bio": "goodwill lover, teacher"
+  },
+  {
+    "id": 9,
+    "name": "Sahana",
+    "experience": 4,
+    "skills": [
+      "Waste Management",
+      "Circular Economy",
+      "Lean Six Sigma"
+    ],
+    "scores": {
+      "crisis": 63,
+      "sustainability": 55,
+      "motivation": 68
+    },
+    "bio": "teacher, gamer, educator 🖤"
+  },
+  {
+    "id": 10,
+    "name": "Rohit",
+    "experience": 13,
+    "skills": [
+      "Waste Management",
+      "SCADA",
+      "Circular Economy"
+    ],
+    "scores": {
+      "crisis": 41,
+      "sustainability": 62,
+      "motivation": 63
+    },
+    "bio": "coal junkie, author"
+  },
+  {
+    "id": 11,
+    "name": "Manisha",
+    "experience": 12,
+    "skills": [
+      "Waste Management",
+      "Circular Economy",
+      "Lean Six Sigma"
+    ],
+    "scores": {
+      "crisis": 79,
+      "sustainability": 76,
+      "motivation": 64
+    },
+    "bio": "yin junkie  😲"
+  },
+  {
+    "id": 12,
+    "name": "Suresh",
+    "experience": 6,
+    "skills": [
+      "Circular Economy",
+      "SCADA",
+      "ISO 14001"
+    ],
+    "scores": {
+      "crisis": 61,
+      "sustainability": 88,
+      "motivation": 43
+    },
+    "bio": "nerve advocate"
+  },
+  {
+    "id": 13,
+    "name": "Vijay",
+    "experience": 14,
+    "skills": [
+      "Waste Management",
+      "SCADA",
+      "Circular Economy"
+    ],
+    "scores": {
+      "crisis": 78,
+      "sustainability": 93,
+      "motivation": 92
+    },
+    "bio": "grad, leader"
+  },
+  {
+    "id": 14,
+    "name": "Sanjana",
+    "experience": 5,
+    "skills": [
+      "Circular Economy",
+      "ISO 14001",
+      "Waste Management"
+    ],
+    "scores": {
+      "crisis": 84,
+      "sustainability": 94,
+      "motivation": 94
+    },
+    "bio": "philosopher"
+  },
+  {
+    "id": 15,
+    "name": "Ananya",
+    "experience": 6,
+    "skills": [
+      "Lean Six Sigma",
+      "SCADA",
+      "ISO 14001"
+    ],
+    "scores": {
+      "crisis": 97,
+      "sustainability": 45,
+      "motivation": 64
+    },
+    "bio": "designer"
+  },
+  {
+    "id": 16,
+    "name": "Rajesh",
+    "experience": 7,
+    "skills": [
+      "Lean Six Sigma",
+      "Circular Economy",
+      "ISO 14001"
+    ],
+    "scores": {
+      "crisis": 55,
+      "sustainability": 62,
+      "motivation": 74
+    },
+    "bio": "honesty advocate"
+  },
+  {
+    "id": 17,
+    "name": "Priya",
+    "experience": 14,
+    "skills": [
+      "ISO 14001",
+      "Waste Management",
+      "Circular Economy"
+    ],
+    "scores": {
+      "crisis": 64,
+      "sustainability": 86,
+      "motivation": 62
+    },
+    "bio": "person"
+  },
+  {
+    "id": 18,
+    "name": "Aniket",
+    "experience": 15,
+    "skills": [
+      "Circular Economy",
+      "SCADA",
+      "Lean Six Sigma"
+    ],
+    "scores": {
+      "crisis": 42,
+      "sustainability": 83,
+      "motivation": 75
+    },
+    "bio": "developer, grad, philosopher"
+  },
+  {
+    "id": 19,
+    "name": "Magesh",
+    "experience": 15,
+    "skills": [
+      "Waste Management",
+      "Lean Six Sigma",
+      "ISO 14001"
+    ],
+    "scores": {
+      "crisis": 42,
+      "sustainability": 71,
+      "motivation": 42
+    },
+    "bio": "film lover"
+  },
+  {
+    "id": 20,
+    "name": "Tina",
+    "experience": 9,
+    "skills": [
+      "Lean Six Sigma",
+      "Circular Economy",
+      "ISO 14001"
+    ],
+    "scores": {
+      "crisis": 99,
+      "sustainability": 73,
+      "motivation": 61
+    },
+    "bio": "film lover, grad, creator"
+  },
+  {
+    "id": 21,
+    "name": "Lela",
+    "experience": 6,
+    "skills": [
+      "Waste Management",
+      "SCADA",
+      "Circular Economy"
+    ],
+    "scores": {
+      "crisis": 68,
+      "sustainability": 99,
+      "motivation": 50
+    },
+    "bio": "epic enthusiast, writer 😰"
+  },
+  {
+    "id": 22,
+    "name": "Lokesh",
+    "experience": 15,
+    "skills": [
+      "Lean Six Sigma",
+      "Waste Management",
+      "SCADA"
+    ],
+    "scores": {
+      "crisis": 48,
+      "sustainability": 97,
+      "motivation": 87
+    },
+    "bio": "inventor, writer"
+  },
+  {
+    "id": 23,
+    "name": "Akram",
+    "experience": 7,
+    "skills": [
+      "ISO 14001",
+      "Lean Six Sigma",
+      "SCADA"
+    ],
+    "scores": {
+      "crisis": 77,
+      "sustainability": 68,
+      "motivation": 53
+    },
+    "bio": "airbus supporter, developer 🚒"
+  },
+  {
+    "id": 24,
+    "name": "Mawiya",
+    "experience": 14,
+    "skills": [
+      "Lean Six Sigma",
+      "SCADA",
+      "Circular Economy"
+    ],
+    "scores": {
+      "crisis": 71,
+      "sustainability": 64,
+      "motivation": 68
+    },
+    "bio": "writer, gamer"
+  },
+  {
+    "id": 25,
+    "name": "Amrita",
+    "experience": 10,
+    "skills": [
+      "Lean Six Sigma",
+      "Circular Economy",
+      "ISO 14001"
+    ],
+    "scores": {
+      "crisis": 51,
+      "sustainability": 79,
+      "motivation": 84
+    },
+    "bio": "filmmaker, author, musician"
+  },
+  {
+    "id": 26,
+    "name": "Naina",
+    "experience": 14,
+    "skills": [
+      "SCADA",
+      "ISO 14001",
+      "Waste Management"
+    ],
+    "scores": {
+      "crisis": 59,
+      "sustainability": 81,
+      "motivation": 76
+    },
+    "bio": "mountain enthusiast"
+  },
+  {
+    "id": 27,
+    "name": "Manikandan",
+    "experience": 12,
+    "skills": [
+      "SCADA",
+      "Waste Management",
+      "Circular Economy"
+    ],
+    "scores": {
+      "crisis": 84,
+      "sustainability": 97,
+      "motivation": 94
+    },
+    "bio": "designer"
+  },
+  {
+    "id": 28,
+    "name": "Sanjeev",
+    "experience": 10,
+    "skills": [
+      "Circular Economy",
+      "SCADA",
+      "ISO 14001"
+    ],
+    "scores": {
+      "crisis": 73,
+      "sustainability": 65,
+      "motivation": 84
+    },
+    "bio": "grandson junkie"
+  },
+  {
+    "id": 29,
+    "name": "Karthik",
+    "experience": 9,
+    "skills": [
+      "Lean Six Sigma",
+      "SCADA",
+      "Waste Management"
+    ],
+    "scores": {
+      "crisis": 98,
+      "sustainability": 64,
+      "motivation": 49
+    },
+    "bio": "veteran, filmmaker"
+  },
+  {
+    "id": 30,
+    "name": "Raghav",
+    "experience": 15,
+    "skills": [
+      "Circular Economy",
+      "Lean Six Sigma",
+      "SCADA"
+    ],
+    "scores": {
+      "crisis": 65,
+      "sustainability": 65,
+      "motivation": 67
+    },
+    "bio": "engineer"
+  },
+  {
+    "id": 31,
+    "name": "Malavika",
+    "experience": 10,
+    "skills": [
+      "Circular Economy",
+      "Waste Management",
+      "SCADA"
+    ],
+    "scores": {
+      "crisis": 56,
+      "sustainability": 95,
+      "motivation": 99
+    },
+    "bio": "issue lover  🖨️"
+  },
+  {
+    "id": 32,
+    "name": "Thabith",
+    "experience": 10,
+    "skills": [
+      "Waste Management",
+      "Lean Six Sigma",
+      "ISO 14001"
+    ],
+    "scores": {
+      "crisis": 53,
+      "sustainability": 57,
+      "motivation": 77
+    },
+    "bio": "engineer, musician, educator"
+  },
+  {
+    "id": 33,
+    "name": "Jawith",
+    "experience": 15,
+    "skills": [
+      "SCADA",
+      "Waste Management",
+      "ISO 14001"
+    ],
+    "scores": {
+      "crisis": 58,
+      "sustainability": 80,
+      "motivation": 48
+    },
+    "bio": "film lover"
+  },
+  {
+    "id": 34,
+    "name": "Sathvik",
+    "experience": 9,
+    "skills": [
+      "Circular Economy",
+      "Waste Management",
+      "SCADA"
+    ],
+    "scores": {
+      "crisis": 76,
+      "sustainability": 56,
+      "motivation": 61
+    },
+    "bio": "dependency supporter, writer"
+  },
+  {
+    "id": 35,
+    "name": "Satyarth",
+    "experience": 15,
+    "skills": [
+      "SCADA",
+      "Lean Six Sigma",
+      "ISO 14001"
+    ],
+    "scores": {
+      "crisis": 100,
+      "sustainability": 42,
+      "motivation": 47
+    },
+    "bio": "ice-cream enthusiast  👃🏼"
+  },
+  {
+    "id": 36,
+    "name": "Mufarish",
+    "experience": 4,
+    "skills": [
+      "Circular Economy",
+      "Lean Six Sigma",
+      "ISO 14001"
+    ],
+    "scores": {
+      "crisis": 49,
+      "sustainability": 69,
+      "motivation": 81
+    },
+    "bio": "parent, dreamer, parent 💐"
+  },
+  {
+    "id": 37,
+    "name": "Sathya",
+    "experience": 3,
+    "skills": [
+      "Waste Management",
+      "SCADA",
+      "Circular Economy"
+    ],
+    "scores": {
+      "crisis": 76,
+      "sustainability": 80,
+      "motivation": 52
+    },
+    "bio": "depot supporter, friend"
+  },
+  {
+    "id": 38,
+    "name": "Ashiwini",
+    "experience": 7,
+    "skills": [
+      "Lean Six Sigma",
+      "SCADA",
+      "ISO 14001"
+    ],
+    "scores": {
+      "crisis": 90,
+      "sustainability": 80,
+      "motivation": 69
+    },
+    "bio": "photographer, entrepreneur"
+  },
+  {
+    "id": 39,
+    "name": "Reshma",
+    "experience": 2,
+    "skills": [
+      "SCADA",
+      "Lean Six Sigma",
+      "ISO 14001"
+    ],
+    "scores": {
+      "crisis": 65,
+      "sustainability": 84,
+      "motivation": 74
+    },
+    "bio": "haversack enthusiast"
+  },
+  {
+    "id": 40,
+    "name": "Reesha",
+    "experience": 15,
+    "skills": [
+      "Lean Six Sigma",
+      "Circular Economy",
+      "ISO 14001"
+    ],
+    "scores": {
+      "crisis": 74,
+      "sustainability": 75,
+      "motivation": 59
+    },
+    "bio": "nerd, nerd"
+  }
+]
